@@ -1,0 +1,6 @@
+.env
+venv/
+__pycache__/
+*.pyc
+model_anomalii.joblib
+P2/trafic_normal.csv
