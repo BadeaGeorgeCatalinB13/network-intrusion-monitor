@@ -1,0 +1,14 @@
+{
+    "00:00:5E:00:53:01": {
+        "ip": "192.168.1.1",
+        "vendor": "Example Router"
+    },
+    "00:00:5E:00:53:02": {
+        "ip": "192.168.1.2",
+        "vendor": "Example Electronics"
+    },
+    "00:00:5E:00:53:03": {
+        "ip": "192.168.1.3",
+        "vendor": "Unknown Vendor"
+    }
+}
